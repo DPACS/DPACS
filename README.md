@@ -13,8 +13,8 @@ DYB팀 리더 김양규입니다.
 3. YuJungAhn
 
 #Rights
-All Rights are reserved from DYB Team
-소스를 학습용으로 연구하는것은 자유지만, 상업용으로 이용하는것은 불법임을 명시합니다.
+#All Rights are reserved from DYB Team
+#소스를 학습용으로 연구하는것은 자유지만, 상업용으로 이용하는것은 불법임을 명시합니다.
 모든 권리는 저희 DYB팀에게 있습니다.
 
 #Contact
