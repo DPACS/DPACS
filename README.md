@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+#소개
+1. 안녕하세요.
+2. DYB팀 리더 김양규입니다.
 
-You can use the [editor on GitHub](https://github.com/DPACS/DPACS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#프로젝트 개요
+1. 이 프로젝트는 장애인 주차구역 단속 시스템입니다. 장애인 주차구역에 가보시면 알겠지만 많은 차량들이 불법 주차하고 있습니다. 
+단속하기 위해서는 단속 어플을 이용하는데 현실적인 단속에 어려움을 겪고있습니다. 따라서 저희는 이러한 불편함을 극복하고자
+장애인 주차구역 단속 시스템을 만들어보았습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#DYB팀
+1. RyangGyouKim
+2. JunYoungChoi
+3. YuJungAhn
 
-### Markdown
+#Rights
+  1. All Rights are reserved by DYB Team
+  2. 소스를 학습용으로 연구하는것은 자유지만, 상업용으로 이용하는것은 불법임을 명시합니다.
+  모든 권리는 저희 DYB팀에게 있습니다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Contact
+1. yangguq@gmail.com - RyangGyouKim
 
-```markdown
-Syntax highlighted code block
+#site
+1. http://dpacs.xyz/showImg.jsp
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DPACS/DPACS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
